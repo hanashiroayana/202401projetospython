@@ -1,2 +1,2 @@
-# 202401projetospython
-Exercícios Python 202401
+# Projetos Python Semestre 1
+Exercícios Python 2024/01 
